@@ -45,9 +45,9 @@ My journey in computer science has led me to develop a passion from Software Eng
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/CySecurity-2BFF0000?&style=for-the-badge&logo=NuCamp&logoColor=white" />
-<img src="https://img.shields.io/badge/CyDefSec2B-007ACC?&style=for-the-badge&logo=NuCamp&logoColor=white" />
-<img src="https://img.shields.io/badge/-A2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CySecurity-FF0000?&style=for-the-badge&logo=NuCamp&logoColor=white" />
+<img src="https://img.shields.io/badge/CyDefSec-007ACC?&style=for-the-badge&logo=NuCamp&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
