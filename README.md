@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion from Software Eng
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/NotArtwork/TokyoHoneyPot/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Phishing Automation with AWS GoPhish          | AWS GoPhish Lab |
 | Incident Response Planning and Execution      | SOC Automation Lab|
