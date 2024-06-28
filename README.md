@@ -51,4 +51,4 @@ My journey in computer science has led me to develop a passion from Software Eng
 
 ## Projects
 - Automation Phishing Lab w/ AWS GoPhish
-- AWS + HoneyPot + SIEM Lab
+- AWS HoneyPot SIEM Lab
