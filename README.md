@@ -13,12 +13,10 @@ My journey in computer science has led me to develop a passion from Software Eng
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS + HoneyPot + SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS + HoneyPot + SIEM Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS HoneyPot SIEM Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS HoneyPot SIEM Lab</a>|
 | Phishing Automation with AWS GoPhish          | <a href="https://github.com/NotArtwork/AWSGoPhish/">AWS GoPhish Lab </a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS + HoneyPot + SIEM Lab</a> |
-| Case Management with TheHive                  | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS + HoneyPot + SIEM Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS + HoneyPot + SIEM Lab</a> |
+| Incident Response Planning and Execution      | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS HoneyPot SIEM Lab</a> |
 
 ## Tools
 
