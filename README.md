@@ -1,54 +1,44 @@
-# Hey, I'm Antonio!
-<a href="https://www.linkedin.com/in/antonio-arce-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Antonio Arce
 
-With over 5 years of experience in Information Technology, specializing in cybersecurity and software engineering, I am a dedicated professional known for my adaptability and strong work ethic. As a team player, I bring a collaborative spirit and a commitment to excellence in every project I undertake.
+**Full-Stack Developer** — Brooklyn, NY
+Founder of Dreamwoven.Studio · TypeScript / Next.js / Python / AI agents
 
-## Objective
+## About
 
+I ship web and mobile products end-to-end — API design, data modeling, automation, agent runtimes, and the UI users actually touch. My current focus is building TypeScript / Next.js apps and Shopify Plus systems engineered for performance, SEO, and AI search visibility.
 
-My journey in computer science has led me to develop a passion from Software Engineering to Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## What I'm Building
 
-## Skills
+- **[Dreamwoven.Studio](https://dreamwoven.studio)** — Next.js / TypeScript marketing sites and web apps with full JSON-LD schema graphs, Core Web Vitals tuning, and AI/LLM search optimization built in from day one. Shopify Plus integrations and n8n automation workflows connecting orders, inventory, and WhatsApp Business notifications.
+- **HAUL / Vndr** — Mobile app for TCG collectors. AI card scanning, real-time market pricing, profit calculation. *React Native · Node · ML inference · market data APIs.*
+- **TCG-API** — Data API for Pokémon and One Piece TCG. Catalog, pricing, alt-art detection via headless browser tooling. *Python · FastAPI · Postgres.*
+- **OpenClaw Inventory Agent** — Natural-language stock queries across multi-location retail + e-commerce for a 25-person team. *OpenClaw · Python · LLM tool calling · inventory APIs.*
 
+## Stack
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS HoneyPot SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS HoneyPot SIEM Lab</a>|
-| Phishing Automation with AWS GoPhish          | <a href="https://github.com/NotArtwork/AWSGoPhish/">AWS GoPhish Lab </a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/NotArtwork/TokyoHoneyPot/">AWS HoneyPot SIEM Lab</a> |
+**Languages** — TypeScript / JavaScript, Python, SQL, PowerShell
+**Frontend** — React, React Native, Next.js, Tailwind CSS
+**Backend** — Node.js, Express, FastAPI, REST API design
+**Data** — MongoDB, PostgreSQL
+**Infra & Platforms** — Vercel, AWS EC2, Docker, Git/GitHub, Shopify Plus, n8n
+**AI / Agents** — Anthropic API, OpenClaw, LLM tool calling, prompt engineering, AI search optimization
 
-## Tools
+## Experience
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NMAP-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS-00008b?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-ffc00?&style=for-the-badge&logo=Zeek&logoColor=white" />
+- **Founder & Full-Stack Developer** · Dreamwoven.Studio · 2025–present
+- **IT Operations Manager** · Fig Kosher Phones · 2025–present
+- **Software Engineer** · Korean Tiger Studios · 2023–2024 — sole developer on a React Native gym app for 1,000+ active users
+- **Coding Instructor** · STEM From Dance · 2022–2025 — taught JavaScript and microcontrollers via the NYU-co-developed DanceOn interface
 
-</div>
+## Education
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+B.A. in IT Management — Berkeley College, Manhattan NY
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/CySecurity-FF0000?&style=for-the-badge&logo=NuCamp&logoColor=white" />
-<img src="https://img.shields.io/badge/CyDefSec-007ACC?&style=for-the-badge&logo=NuCamp&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
 
-## Projects
-- Automation Phishing Lab w/ AWS GoPhish
-- AWS HoneyPot SIEM Lab
+Google Cybersecurity Professional · CompTIA Security+ · CompTIA A+ · CySecurity Security Essentials · CyDefSec Network Defense & Security · CyHacker Ethical Hacker
+
+## Connect
+
+- LinkedIn — [antonio-arce-](https://www.linkedin.com/in/antonio-arce-/)
+- Email — AntArce3@gmail.com
