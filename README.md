@@ -1,7 +1,7 @@
 # Antonio Arce
 
 **Full-Stack Developer** — Brooklyn, NY
-Founder of Dreamwoven.Studio 
+
 
 ## About
 
