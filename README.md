@@ -10,7 +10,7 @@ I ship web and mobile products end-to-end — API design, data modeling, automat
 ## What I'm Building
 
 - **[Dreamwoven.Studio](https://dreamwoven.studio)** — Next.js / TypeScript marketing sites and web apps with full JSON-LD schema graphs, Core Web Vitals tuning, and AI/LLM search optimization built in from day one. Shopify Plus integrations and n8n automation workflows connecting orders, inventory, and WhatsApp Business notifications.
-- **HAUL / Vndr** — Mobile app for TCG collectors. AI card scanning, real-time market pricing, profit calculation. *React Native · Node · ML inference · market data APIs.*
+- **VNDR** — Mobile app for TCG collectors. AI card scanning, real-time market pricing, profit calculation. *React Native · Node · ML inference · market data APIs.*
 APIs.*
 
 ## Stack
