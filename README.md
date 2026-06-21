@@ -5,7 +5,7 @@
 
 ## About
 
-I ship web and mobile products end-to-end — API design, data modeling, automation, agent runtimes, and the UI users actually touch. My current focus is building TypeScript / Next.js apps and Shopify Plus systems engineered for performance, SEO, and AI search visibility.
+I ship web and mobile products end-to-end — API design, data modeling, automation, agent runtimes, and the UI users actually touch. My current focus is building TypeScript / Next.js apps engineered for performance, SEO, and AI search visibility.
 
 ## What I'm Building
 
