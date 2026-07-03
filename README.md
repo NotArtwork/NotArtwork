@@ -1,6 +1,6 @@
 # Antonio Arce
 
-**Full-Stack Developer** — Brooklyn, NY
+**Full-Stack Developer**
 
 
 ## About
