@@ -25,4 +25,4 @@ APIs.*
 
 
 - LinkedIn — [antonio-arce-](https://www.linkedin.com/in/antonio-arce-/)
-- Email — AntArce3@gmail.com
+- Email — AntArce3@gmail.com.
