@@ -24,5 +24,5 @@ APIs.*
 **AI / Agents** — Anthropic API, OpenClaw, LLM tool calling, prompt engineering, AI search optimization
 
 
-- LinkedIn — [antonio-arce-](https://www.linkedin.com/in/antonio-arce-/)
+- LinkedIn — [Antonio Arce](https://www.linkedin.com/in/antonio-arce-/)
 - Email — AntArce3@gmail.com
